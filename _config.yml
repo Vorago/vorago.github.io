@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Blog of Andrew Naydyonock
+tagline:          'Blog of Andrew Naydyonock'
+description:      'Software engineering & DevOps'
+url:              http://vorago.github.io
+baseurl:          /
+
+author:
+  name:           'Andrew Naydyonock'
+  email:          a.vorago@gmail.com
+

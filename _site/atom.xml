@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Blog of Andrew Naydyonock</title>
+ <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://hyde.getpoole.com/"/>
+ <updated>2015-09-24T23:58:14+03:00</updated>
+ <id>http://hyde.getpoole.com</id>
+ <author>
+   <name>Andrew Naydyonock</name>
+   <email>a.vorago@gmail.com</email>
+ </author>
+
+ 
+
+</feed>
